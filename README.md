@@ -15,8 +15,8 @@ This is a simple command-line todo list application built with TypeScript and No
 To use this todo list application, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install dependencies by running `npm install`.
-3. Run the application using `npm start`.
+2. Install dependencies by running `npm i t6ra2-todo_list`.
+3. Run the application using `npx t6ra2-todo_list`.
 4. Follow the prompts to perform various actions on your todo list.
 
 ## Dependencies
@@ -27,7 +27,3 @@ To use this todo list application, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the description according to your project's specific details and requirements.
